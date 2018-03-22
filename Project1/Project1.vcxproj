@@ -143,6 +143,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Bike.h" />
+    <ClInclude Include="BikeSystem.h" />
+    <ClInclude Include="MoBike.h" />
+    <ClInclude Include="OfoBike.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Bike.cpp" />
+    <ClCompile Include="BikeSystem.cpp" />
+    <ClCompile Include="MoBike.cpp" />
+    <ClCompile Include="OfoBike.cpp" />
+    <ClCompile Include="test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
