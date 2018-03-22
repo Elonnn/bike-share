@@ -1,4 +1,4 @@
- #bike-share
+#bike-share
 
 > 利用C++模拟实现一个对共享单车的管理系统。设计实现代表系统的 BikeSystem 类，表示所有单车基类的 Bike 类，以及OfoBike、MoBike 两个派生类。集成开发环境为vs2017。
 
